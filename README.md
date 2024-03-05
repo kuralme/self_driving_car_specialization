@@ -10,7 +10,7 @@ This repo contains my Coursera Self-Driving Car Specialization' class materials,
 - Longitudinal and lateral controller design
 - Control stack on CARLA racetrack
   
-[![ ](http://img.youtube.com/vi/pvThPqJ2_lo/0.jpg)](https://youtu.be/pvThPqJ2_lo?feature=shared)
+[<img src="" width="90%"></img>](https://youtu.be/pvThPqJ2_lo?feature=shared)
 
 ## 2. State Estimation and Localization for Self-Driving Cars
 - Squared error optimization and Least squares
@@ -26,7 +26,7 @@ This repo contains my Coursera Self-Driving Car Specialization' class materials,
 - 2D object detection
 - Semantic segmentation
 
-![ ](https://github.com/kuralme/Visual_Perception/final_assignment/images/fa.png "")
+![ ](./Visual_Perception/final_assignment/images/fa.png)
 
 
 ## 4. Motion Planning for Self-Driving Cars
@@ -38,4 +38,4 @@ This repo contains my Coursera Self-Driving Car Specialization' class materials,
 - Smooth local planning
 - Motion planning in CARLA simulation
   
-[![ ](http://img.youtube.com/vi/nvQEh_HwXmw/0.jpg)](https://youtu.be/nvQEh_HwXmw?feature=shared)
+[<img src="" width="90%"></img>](https://youtu.be/nvQEh_HwXmw?feature=shared)
